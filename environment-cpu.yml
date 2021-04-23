@@ -1,0 +1,16 @@
+name: garbage-classifier
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - numpy
+  - scipy
+  - pandas
+  - tqdm
+  - opencv
+  - scikit-learn
+  - ipykernel
+  - pytorch
+  - torchvision
